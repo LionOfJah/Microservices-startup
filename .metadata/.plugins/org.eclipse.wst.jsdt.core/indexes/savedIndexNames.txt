@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+D:\MicrsoServicesArch\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4247361134.index
+3637360416.index
+592137435.index
+3003261899.index
+3536593712.index
+3743257112.index
+1566656060.index
+4241839290.index
