@@ -1,0 +1,5 @@
+package io.javadems.service.controller;
+
+public class RatingsResource {
+
+}

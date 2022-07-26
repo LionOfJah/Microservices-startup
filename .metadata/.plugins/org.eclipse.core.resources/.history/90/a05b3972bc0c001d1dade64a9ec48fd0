@@ -1,0 +1,5 @@
+package io.javadems.service.model;
+
+public class CatalogItem {
+
+}
