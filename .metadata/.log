@@ -804,3 +804,33 @@ Binding(CTRL+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 03:42:20.860
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 03:42:20.889
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 03:42:20.913
+!MESSAGE buffering callback sts4.classpath.EjUodVFP Movie-Catalog-Service false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 03:42:20.918
+!MESSAGE executing callback sts4.classpath.EjUodVFP 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 03:42:20.931
+!MESSAGE executing callback sts4.classpath.EjUodVFP SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 03:42:23.396
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 03:42:23.400
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 03:42:23.402
+!MESSAGE buffering callback sts4.classpath.EjUodVFP Movie-Catalog-Service false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 03:42:23.402
+!MESSAGE executing callback sts4.classpath.EjUodVFP 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-27 03:42:23.413
+!MESSAGE executing callback sts4.classpath.EjUodVFP SUCCESS [done]
